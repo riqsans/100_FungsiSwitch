@@ -26,3 +26,7 @@ float pengurangan(float a, float b)
 {
     return a + b;
 }
+float perkalian(float a, float b)
+{
+    return a + b;
+}
